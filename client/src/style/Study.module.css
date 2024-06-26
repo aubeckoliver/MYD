@@ -1,0 +1,74 @@
+.header {
+  text-align: center;
+}
+
+.h1 {
+  background-color: #282c34;
+  color: white;
+  font-size: 40px;
+}
+
+.title {
+  margin-bottom: 100px;
+  background-color: #282c34;
+  color: white;
+  font-size: 60px;
+}
+
+.study {
+  width: 30%;
+  border: 1px solid grey;
+  border-radius: 20px;
+  margin: auto;
+  color: black;
+  padding: 0.2% 0;
+  color: white;
+  background-color: #7286ae;
+  margin-bottom: 10px;
+}
+
+.selectedStudy {
+  width: 30%;
+  border: 1px solid grey;
+  border-radius: 20px;
+  margin: auto;
+  color: black;
+  padding: 0.2% 0;
+  color: white;
+  background-color: #1951c0;
+  margin-bottom: 10px;
+}
+
+.section {
+  margin-bottom: 10px;
+  color: white;
+  display: inline-block;
+}
+
+.sections {
+  margin-bottom: 20px;
+}
+
+.subject {
+  height: 20px;
+  width: 40%;
+  background-color: #7286ae;
+  margin: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.selectedSubject {
+  height: 20px;
+  width: 40%;
+  background-color: #1951c0;
+  margin: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.subjects {
+  margin-bottom: 20px;
+}

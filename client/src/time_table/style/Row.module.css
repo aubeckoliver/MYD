@@ -1,0 +1,51 @@
+.event {
+  background-color: gold;
+  width: 100%;
+  bottom: 0%;
+}
+
+.inside {
+  background-color: rgb(236, 241, 243);
+}
+
+.front {
+  background-color: rgb(241, 246, 244);
+}
+
+td {
+  border-color: rgb(239, 243, 244);
+  border-width: 5;
+  border: solid;
+}
+
+.timeline {
+  border-style: none;
+  background-color: "transparent";
+  text-align: center;
+  padding-right: 10px;
+  width: 70px;
+  z-index: -1;
+}
+
+.day {
+  border-style: none;
+  background-color: "transparent";
+  text-align: center;
+  z-index: -1;
+}
+
+.last {
+  border-style: none;
+  background-color: "transparent";
+  text-align: center;
+}
+
+table {
+  border-color: rgb(68, 29, 100);
+  z-index: -1;
+  border-radius: 5px;
+}
+
+tr {
+  height: 60px;
+}

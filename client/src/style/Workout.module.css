@@ -1,0 +1,76 @@
+.h1 {
+  background-color: inherit;
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 60px;
+}
+
+.all {
+  color: rgb(217, 227, 231);
+}
+
+.h2 {
+  background-color: inherit;
+  color: rgb(222, 199, 199);
+}
+
+.form {
+  padding: 1%;
+  height: 400px;
+  width: 40%;
+  margin: auto;
+  background-color: rgb(213, 212, 191);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.label {
+  background-color: rgb(213, 212, 191);
+  margin-right: 2%;
+}
+
+.addBtn {
+  margin: auto;
+  width: 56px;
+}
+
+.workOut {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.prog {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  border-bottom: 1px solid rgb(228, 121, 121);
+  margin-bottom: 80px;
+  padding-bottom: 20px;
+  font-size: 40px;
+}
+
+.muscle {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  border-bottom: 1px solid rgb(228, 121, 121);
+  margin-bottom: 40px;
+  padding-bottom: 5%;
+  font-size: 30px;
+  display: block;
+}
+
+.exercise {
+  margin-bottom: 10px;
+  height: 20px;
+  vertical-align: text-top;
+  font-size: 20px;
+}
+
+.btns {
+  height: 56px;
+  width: 120px;
+  margin: auto;
+}

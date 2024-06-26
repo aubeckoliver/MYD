@@ -1,0 +1,57 @@
+.inside {
+  background-color: rgb(223, 228, 231);
+}
+
+.front {
+  background-color: rgb(231, 236, 234);
+}
+
+td {
+  border-color: rgb(228, 237, 238);
+  border-width: 5;
+  border: solid;
+}
+
+.time {
+  width: 90%;
+  margin: auto;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.container {
+  height: 2000px;
+  position: relative;
+  background-color: #282c34;
+}
+
+.timeline {
+  border-style: none;
+  background-color: "transparent";
+  text-align: center;
+  padding-right: 10px;
+  width: 70px;
+  z-index: -1;
+}
+
+.day {
+  border-style: none;
+  background-color: "transparent";
+  text-align: center;
+  z-index: -1;
+}
+
+.last {
+  border-style: none;
+  background-color: "transparent";
+  text-align: center;
+}
+
+table {
+  z-index: -1;
+  border-radius: 5px;
+}
+
+tr {
+  height: 60px;
+}

@@ -1,0 +1,27 @@
+body {
+  background-color: #282c34;
+}
+
+.card {
+  color: black;
+  width: 46%;
+  margin: auto;
+  height: 200px;
+  background-color: white;
+  border-radius: 10px;
+  margin: 2%;
+  float: left;
+  text-align: center;
+}
+
+.cards {
+  width: 50%;
+  margin: auto;
+}
+
+.h1 {
+  text-align: center;
+  background-color: #282c34;
+  margin-bottom: 0%;
+  color: white;
+}

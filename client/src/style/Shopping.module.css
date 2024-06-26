@@ -1,0 +1,44 @@
+.h1 {
+  background-color: inherit;
+  text-align: center;
+  color: rgb(207, 211, 205);
+  margin-bottom: 40px;
+}
+
+.list {
+  margin: auto;
+  width: 30%;
+  border-radius: 10px;
+  background-color: rgb(207, 211, 205);
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+}
+
+.listName {
+  padding-left: 10px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.listActions {
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  float: right;
+}
+
+.addItemButton {
+  width: 40px;
+  margin: auto;
+}
+
+.listItems {
+  margin-bottom: 10px;
+}
+
+.addListButton {
+  width: 40px;
+  margin: auto;
+}
